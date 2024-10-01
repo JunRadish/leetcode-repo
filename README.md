@@ -65,21 +65,15 @@ Each problem has its own directory containing a README with the problem descript
 
 ## 📊 My Progress
 
-- Total Problems Solved: [Your Count]
-- Easy: [Count]
-- Medium: [Count]
-- Hard: [Count]
+- Total Problems Solved: 1
+- Easy: 1
+- Medium: 0
+- Hard: 0
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YourLeetCodeUsername&theme=dark)
 
 ## 🤝 Contributing
 
 While this is a personal repository, I welcome discussions on problem-solving approaches! Feel free to open an issue if you have suggestions or questions about any solutions.
-
-## 🌐 Connect With Me
-
-- [Your Personal Website]
-- [LinkedIn Profile]
-- [Twitter Handle]
 
 Happy Coding! 🎉
