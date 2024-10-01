@@ -6,13 +6,13 @@ Welcome to my LeetCode problem-solving repository! Here, I document my journey t
 
 ## 📚 Table of Contents
 
-- [About This Repository](#about-this-repository)
-- [Problem Categories](#problem-categories)
-- [Directory Structure](#directory-structure)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [My Progress](#my-progress)
-- [Contributing](#contributing)
-- [Connect With Me](#connect-with-me)
+- [About This Repository](#-about-this-repository)
+- [Problem Categories](#-problem-categories)
+- [Directory Structure](#-directory-structure)
+- [How to Use This Repository](#-how-to-use-this-repository)
+- [My Progress](#-my-progress)
+- [Contributing](#-contributing)
+- [Connect With Me](#-connect-with-me)
 
 ## 🎯 About This Repository
 
